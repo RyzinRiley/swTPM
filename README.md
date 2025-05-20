@@ -1,7 +1,4 @@
 ## WTPM - Software TPM Emulator
-
-David Safford safford@us.ibm.com
-Stefan Berger stefanb@us.ibm.com
 ------------
 
 The `swTPM` package provides TPM emulators with different front-end interfaces
