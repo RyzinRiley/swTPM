@@ -1,4 +1,4 @@
-Building and running the swtpm has dependencies on the following packages:
+**Building and running the swtpm has dependencies on the following packages**:
 
 - automake
 - autoconf
